@@ -29,7 +29,7 @@ span{
 }
 
 h3{
- font-size: 1.6rem;
+ font-size: 1.3rem;
  color:#121012;
  font-family: "Roboto Condensed";
  font-weight: 600;
