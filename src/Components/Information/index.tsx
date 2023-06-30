@@ -1,7 +1,7 @@
 import { Swiper} from 'swiper/react';
 import * as S from './Information.styles'
 import { slidesPreview } from './constants';
-import { Navigation } from 'swiper';
+
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
@@ -44,7 +44,7 @@ const Information = () => {
    
   
      <Swiper
-      modules={[Navigation]}
+      
       slidesPerView={slidePertView}
       spaceBetween={20}
       pagination={{ clickable: true }}
