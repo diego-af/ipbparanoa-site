@@ -1,5 +1,5 @@
 
-import { FaFemale, FaMale, FaChild, FaAngleRight } from "react-icons/fa";
+import { FaFemale, FaMale, FaChild } from "react-icons/fa";
 
 
 import 'swiper/css';
